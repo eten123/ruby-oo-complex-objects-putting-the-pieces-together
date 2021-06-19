@@ -5,7 +5,7 @@
 
 This lab will walk you, step by step, through the basics of programming a
 simple`Book` class. We've covered many of the concepts in this lab over a series
-of lessons. Now it is time to put everything togetheer. Once you've completed
+of lessons. Now it is time to put everything together. Once you've completed
 the tutorial, you should know enough to complete a similar object-oriented
 problem on your own.
 
